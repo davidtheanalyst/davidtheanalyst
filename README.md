@@ -42,6 +42,6 @@ SQL Case Study – Retail Store	Complex joins, CTEs, window functions for analys
 
 📫 Contact
 
-📧 vijay.xx@gmail.com
+📧 vijaydavid626@gmail.com
 
 💼 Open to: Data Analyst, Python Developer, ML roles
